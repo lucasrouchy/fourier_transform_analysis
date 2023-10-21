@@ -1,0 +1,5 @@
+processors, elements, mega-multiplies computed per second
+1, 1048576, 43.66
+2, 1048576, 85.80
+4, 1048576, 163.39
+8, 1048576, 277.09
