@@ -1,1 +1,1 @@
-# fourier_transform_math_model
+# fourier transform math model
